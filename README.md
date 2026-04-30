@@ -1,1 +1,3 @@
 # TTY-raid
+
+Initial config
