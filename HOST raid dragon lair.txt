@@ -1,0 +1,15 @@
+HOST: raid.dragon-lair.org                     Loss%   Snt   Last   Avg   Best  Wrst
+ 1.|-- Boss: Ancient Red Dragon                 0.0%    120   89450  90k   85k   100k
+ 2.|-- Minion: Fire Imp (A)                     0.0%    120   450    450   400   500
+ 
+ ALIES ________________________________________ STATS ________ MANA ________ STATUS ___
+ tu  | Leonidaz                                 9406/12k      204/500      [ OK ]
+ 01  | Jurgenoid                                12548/15k     64/300       [ LOW MANA ]
+ 02  | Almond Eye                               5237/8k       758/900      [ CASTING ]
+
+ LOG __________________________________________________________________________________
+ [14:32:01] 'Dragon' ha usado 'Bola de Fuego' -> 'Leonidaz' -547 HP (Crítico)
+ [14:32:04] 'Almond Eye' lanza 'Cura Mayor' -> 'Leonidaz' +1200 HP
+ [14:32:05] Esperando comando...
+ ______________________________________________________________________________________
+ $ cast blitz --target 1 --power max █
